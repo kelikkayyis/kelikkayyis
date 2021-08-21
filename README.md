@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Aku Kelik Isbiyantoro tertarik dengan statistik, data mining & data science
+
 <!--
 **kelikkayyis/kelikkayyis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

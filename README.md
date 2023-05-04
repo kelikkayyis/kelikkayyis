@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Aku Kelik Isbiyantoro tertarik dengan statistik, data mining & data science
+I'm Data Analyst & BI Analyst with over 8th years of experience providing data analysis, data modelling, data visualization, statistical analysis & machine learning. I possess strong multi-tasking skills, with ability to simultaneously manage several projects and schedules. Technically competent with analytics tool such as R, Python, Power BI, Tableau, Excel and SQL.
 
 <!--
 **kelikkayyis/kelikkayyis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
